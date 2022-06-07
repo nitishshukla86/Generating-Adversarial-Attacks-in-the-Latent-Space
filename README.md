@@ -1,7 +1,7 @@
 # $$TITLE$$
 This repository implements <<title>> in PyTorch. Running this code succesfully reproduces the results in the manuscript.
 # Training
-To train the network on MNIST dataset for 20 epochs on target 0. run the command
+To train the network on MNIST dataset for 20 epochs on target 0, run the command
 ```bash 
  python gan_targetted.py --epochs 20 -t 0
 ```
