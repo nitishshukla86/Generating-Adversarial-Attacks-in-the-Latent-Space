@@ -1,4 +1,5 @@
-This repository implements [Explaining adversarial attacks from geometrical prospective](https://www.google.com) in PyTorch. Running this code succesfully reproduces the results in the manuscript.
+This repository implements [Explaining Adversarial Attacks From a
+Geometric Perspective](https://www.google.com) in PyTorch. Running this code succesfully reproduces the results in the manuscript.
 # Training
 To train the network on MNIST dataset for 20 epochs on target 0, run the command
 ```bash 
