@@ -1,3 +1,5 @@
+**Accepted at GCV(https://generative-vision.github.io/workshop-CVPR-23/), CVPR23**
+
 This repository implements [Explaining Adversarial Attacks From a
 Geometric Perspective](https://www.google.com) in PyTorch. Running this code succesfully reproduces the results in the manuscript.
 # Training
